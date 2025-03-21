@@ -15,5 +15,3 @@
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
-
-Most of the textual content in this account, including but not limited to personal blogs, reading notes, and personal essays, will be moved to private repositories. However, they will still be accessible via their respective links, as I only use static websites. Contributions made by this account while taking public courses or working on open-source code will be subject to continuous review of open-source licenses and may be made private again if necessary.
