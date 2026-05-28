@@ -1,11 +1,16 @@
-# ABOUT ME
-**Someday, I will discover or cultivate a type of cactus named after me!!!**
+# Hi there 👋
 
-**Welcome, my** ![Visitor Count](https://profile-counter.glitch.me/TephrocactusMYC/count.svg) **visitor!**
+I graduated from Nankai University with a bachelor's degree and am currently pursuing my master's degree at Carnegie Mellon University.
 
-| My GitHub Status                                                                                                                                                     | Most Used Languages                                                                                                                          |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-| [![TephrocactusHC's github stats](https://github-readme-stats.vercel.app/api?username=TephrocactusMYC&theme=buefy&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TephrocactusMYC)](https://github.com/anuraghazra/github-readme-stats)|
+## About Me
+
+* 🎓 Bachelor's Degree — Nankai University
+* 📚 Master's Student — Carnegie Mellon University
+* 💻 Interested in technology, computer science, and software development
+* 🌱 Currently learning and exploring new technologies
+
+Welcome to my GitHub profile!
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TephrocactusMYC&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TephrocactusMYC&theme=vue)
